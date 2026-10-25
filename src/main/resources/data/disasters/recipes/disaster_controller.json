@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RDR",
+    "DED",
+    "RDR"
+  ],
+  "key": {
+    "R": { "item": "minecraft:redstone" },
+    "D": { "item": "minecraft:diamond" },
+    "E": { "item": "minecraft:ender_eye" }
+  },
+  "result": {
+    "item": "disasters:disaster_controller"
+  }
+}
